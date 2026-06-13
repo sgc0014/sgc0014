@@ -68,8 +68,8 @@ Intuitive digital workspace for photographers with video uploading and client pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgc00014&show_icons=true&theme=tokyonight&hide_border=true" alt="Sagar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgc00014&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgc0014&show_icons=true&theme=tokyonight&hide_border=true" alt="Sagar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgc0014&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
