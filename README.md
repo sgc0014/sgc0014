@@ -68,8 +68,8 @@ Intuitive digital workspace for photographers with video uploading and client pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girisagar46&show_icons=true&theme=tokyonight&hide_border=true" alt="Sagar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girisagar46&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgc00014&show_icons=true&theme=tokyonight&hide_border=true" alt="Sagar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgc00014&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -82,5 +82,5 @@ Intuitive digital workspace for photographers with video uploading and client pr
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=girisagar46&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sgc00014&color=blueviolet&style=flat" alt="Profile views" />
 </p>
