@@ -63,16 +63,6 @@ Led architecture and development of a gaming platform with tournament creation, 
 ### 📸 Pixto — Photographer Workspace
 Intuitive digital workspace for photographers with video uploading and client proofing UI.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgc0014&show_icons=true&theme=tokyonight&hide_border=true" alt="Sagar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgc0014&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
